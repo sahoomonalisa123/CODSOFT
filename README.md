@@ -23,4 +23,4 @@ The prototype includes the following four loading pages:
 
 ![image](https://github.com/sahoomonalisa123/CODSOFT/assets/161038984/110af5c1-0a88-4dcd-b914-eb72b64d034a)
 
-![image]()
+![image]((https://github.com/sahoomonalisa123/CODSOFT/assets/161038984/5b5f31f8-cf36-44d4-b672-06c94ea2b147))
