@@ -1,4 +1,4 @@
-![Screenshot 2024-07-03 204401](https://github.com/sahoomonalisa123/CODSOFT/assets/161038984/75c34ae0-b223-42bb-a575-eda833212ea8)# CODSOFT
+# CODSOFT
 These are the projects that I've done for my UI/UX internship at CodSoft from 15 june 2024 to 15 July 2024.
 
 # TASK 1 - Signup/Login Page Prototype
@@ -19,7 +19,7 @@ The prototype includes the following four loading pages:
 1. **Access the Prototype**: Click the [Figma Prototype](https://www.figma.com/proto/cY3N9VSOfIWMRQc5qJneLO/Untitled?node-id=1-2&t=jJUtGEJ2zUSaf5Hg-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2) link.
 
 ## Preview
-![image]()
+![image](https://github.com/sahoomonalisa123/CODSOFT/assets/161038984/75c34ae0-b223-42bb-a575-eda833212ea8)
 
 ![image]()
 
