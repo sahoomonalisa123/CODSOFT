@@ -19,7 +19,7 @@ The prototype includes the following four loading pages:
 1. **Access the Prototype**: Click the [Figma Prototype](https://www.figma.com/proto/cY3N9VSOfIWMRQc5qJneLO/Untitled?node-id=1-2&t=jJUtGEJ2zUSaf5Hg-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2) link.
 
 ## Preview
-![image](https://github.com/sahoomonalisa123/CODSOFT/assets/161038984/75c34ae0-b223-42bb-a575-eda833212ea8)
+![image](https://github.com/sahoomonalisa123/CODSOFT/assets/161038984/110af5c1-0a88-4dcd-b914-eb72b64d034a)
 
 ![image]()
 
