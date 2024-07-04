@@ -67,9 +67,9 @@ MS Fashion is a user-friendly e-commerce website designed to offer a seamless sh
 
 ## Preview
 
-![image]((https://github.com/sahoomonalisa123/CODSOFT/assets/161038984/1ec07245-c7a8-4e30-a5cc-610806c7da87))
+![image](https://github.com/sahoomonalisa123/CODSOFT/assets/161038984/1ec07245-c7a8-4e30-a5cc-610806c7da87)
 
-![image]((https://github.com/sahoomonalisa123/CODSOFT/assets/161038984/39b11aa8-7fda-47eb-9ae8-bc6121017eda))
+![image](https://github.com/sahoomonalisa123/CODSOFT/assets/161038984/39b11aa8-7fda-47eb-9ae8-bc6121017eda)
 
 ![image](https://github.com/sahoomonalisa123/CODSOFT/assets/161038984/ecc4d93e-516e-46f8-b6f9-22e537082b5e)
 
