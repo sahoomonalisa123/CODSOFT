@@ -6,8 +6,8 @@ These are the projects that I've done for my UI/UX internship at CodSoft from 15
 Welcome to the Figma prototype for the Signup/Signin page of **MSCreatives**, your go-to app for discovering.
 
 ## Prototype Links
-- **Figma Prototype**: https://www.figma.com/proto/cY3N9VSOfIWMRQc5qJneLO/Untitled?node-id=1-2&t=jJUtGEJ2zUSaf5Hg-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2
-  
+- **Figma Prototype**:Click the [Figma Prototype](https://www.figma.com/proto/cY3N9VSOfIWMRQc5qJneLO/Untitled?node-id=1-2&t=jJUtGEJ2zUSaf5Hg-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2) link.
+
 ## Features
 The prototype includes the following four loading pages:
 
