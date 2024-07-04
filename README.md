@@ -49,7 +49,7 @@ A user-friendly app for browsing menus, managing carts, and placing orders from 
 
 ## Prototype Links
 
-- 1. **Access the Prototype**: Click the [Figma Prototype](https://www.figma.com/proto/80Qqn1E20Ly2Qygg30yyP4/Untitled?node-id=2-2&t=OiMg1NmojlcOInt6-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2) link.
+-  **Access the Prototype**: Click the [Figma Prototype](https://www.figma.com/proto/80Qqn1E20Ly2Qygg30yyP4/Untitled?node-id=2-2&t=OiMg1NmojlcOInt6-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2) link.
 
 # TASK 3 - A E-Commerce Website
 
@@ -67,12 +67,13 @@ MS Fashion is a user-friendly e-commerce website designed to offer a seamless sh
 
 ## Preview
 
-![image]()
+![image]((https://github.com/sahoomonalisa123/CODSOFT/assets/161038984/1ec07245-c7a8-4e30-a5cc-610806c7da87))
 
-![image]()
+![image]((https://github.com/sahoomonalisa123/CODSOFT/assets/161038984/39b11aa8-7fda-47eb-9ae8-bc6121017eda))
 
-![image]()
+![image](https://github.com/sahoomonalisa123/CODSOFT/assets/161038984/ecc4d93e-516e-46f8-b6f9-22e537082b5e)
 
 ## Prototype Links
 
-- 
+-  **Access the Prototype**: Click the [Figma Prototype](https://www.figma.com/proto/MlsuUWI5roSb5NFS3pDFts/E-commerce?node-id=1-2&t=6cPVVarOGYu4GDak-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1) link.
+
