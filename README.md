@@ -1,7 +1,7 @@
 # CODSOFT
 These are the projects that I've done for my UI/UX internship at CodSoft from 15 June 2024 to 15 July 2024.
 
-# TASK 1 - Signup/Login Page Prototype
+# TASK 1 - Signup/Signin Page Prototype
 
 Welcome to the Figma prototype for the Signup/Signin page of **MSCreatives**, your go-to app for discovering.
 
